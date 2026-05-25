@@ -1,0 +1,6 @@
+试试发展人必要文件/
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
+node_modules/
