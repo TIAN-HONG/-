@@ -191,12 +191,12 @@ function go(page, params = {}) {
 }
 
 const PAGE_FILES = {
-  home: "index.html",
-  site: "site.html",
-  "site-client": "client.html",
-  "site-partner": "partner.html",
-  "site-candidate": "candidate.html",
-  "site-developer": "developer.html",
+  home: "../website/index.html",
+  site: "../website/site.html",
+  "site-client": "../website/client.html",
+  "site-partner": "../website/partner.html",
+  "site-candidate": "../website/candidate.html",
+  "site-developer": "../website/developer.html",
   invite: "invite.html",
 };
 
